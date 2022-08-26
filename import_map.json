@@ -7,6 +7,7 @@
     "preact-render-to-string": "https://esm.sh/preact-render-to-string@5.2.1?external=preact",
     "preact": "https://esm.sh/preact@10.10.0",
     "preact/": "https://esm.sh/preact@10.10.0/",
+    "react/jsx-runtime": "https://esm.sh/react@18.2.0/jsx-runtime",
     "remark-preset-lint-consistent": "https://esm.sh/remark-preset-lint-consistent@5.1.1",
     "twind": "https://esm.sh/twind@0.16.17",
     "twind/": "https://esm.sh/twind@0.16.17/",
