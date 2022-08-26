@@ -1,11 +1,16 @@
 {
   "imports": {
+    "@twind": "./utils/twind.ts",
     "$fresh/": "https://deno.land/x/fresh@1.0.2/",
+    "@mdx-js/mdx": "https://esm.sh/@mdx-js/mdx@2.1.3",
+    "@mdx-js/preact": "https://esm.sh/@mdx-js/preact@2.1.3",
+    "preact-render-to-string": "https://esm.sh/preact-render-to-string@5.2.1?external=preact",
     "preact": "https://esm.sh/preact@10.10.0",
     "preact/": "https://esm.sh/preact@10.10.0/",
-    "preact-render-to-string": "https://esm.sh/preact-render-to-string@5.2.1?external=preact",
-    "@twind": "./utils/twind.ts",
+    "remark-preset-lint-consistent": "https://esm.sh/remark-preset-lint-consistent@5.1.1",
     "twind": "https://esm.sh/twind@0.16.17",
-    "twind/": "https://esm.sh/twind@0.16.17/"
-  }
+    "twind/": "https://esm.sh/twind@0.16.17/",
+    "vfile-reporter": "https://esm.sh/vfile-reporter@7.0.4"
+  },
+  "scopes": {}
 }
